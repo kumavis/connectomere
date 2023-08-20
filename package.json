@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "onoff": "^6.0.3"
+  },
+  "devDependencies": {
+    "ink": "^4.3.1",
+    "react": "^18.2.0"
   }
 }
